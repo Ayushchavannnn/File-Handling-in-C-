@@ -1,0 +1,3 @@
+Welcome to File Handling in C++
+This file contains some initial data.
+Appending some additional data.
